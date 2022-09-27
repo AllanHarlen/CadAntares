@@ -1,0 +1,77 @@
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_help.resources
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_cadastro.resources
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frmprogressbar.resources
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.Properties.Resources.resources
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.GenerateResource.cache
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\AntaresERP.exe.config
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\AntaresERP.exe
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\AntaresERP.pdb
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\MySql.Data.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Buffers.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Memory.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\ZstdNet.dll
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.pdb
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\MySql.Data.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Buffers.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Memory.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.CopyComplete
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\AntaresERP.exe
+C:\Users\Meu Computador\Desktop\Cadastrar\Cadastrar\obj\Debug\AntaresERP.pdb
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\AntaresERP.exe.config
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\AntaresERP.exe
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\AntaresERP.pdb
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\AntaresERP.exe
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\AntaresERP.pdb
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\MySql.Data.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Buffers.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Memory.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\ZstdNet.dll
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.pdb
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Google.Protobuf.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\MySql.Data.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Buffers.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Memory.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_help.resources
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_cadastro.resources
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frmprogressbar.resources
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.Properties.Resources.resources
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.GenerateResource.Cache
+C:\Users\allan\Desktop\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csprojResolveAssemblyReference.cache
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\bin\Debug\AntaresERP.exe.config
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\AntaresERP.exe
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\AntaresERP.pdb
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csprojResolveAssemblyReference.cache
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_help.resources
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frm_cadastro.resources
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.frmprogressbar.resources
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.Properties.Resources.resources
+D:\Estudos C#\Projetos C#\Cadastrar\Cadastrar\obj\Debug\Cadastrar.csproj.GenerateResource.Cache
